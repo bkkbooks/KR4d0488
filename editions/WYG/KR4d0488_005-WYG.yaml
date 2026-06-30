@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0488/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 静春堂詩集原䟦静春詩似黄陳學杜徃徃以蒼硬盤鬱出之當是去宋未遥不染元人纎靡之習耳八月一日雨後七古一篇意氣擺脱才情奔放具體大蘇矣鈔本多訛字改定覺眼界爽朗誰云誤書思之更是一適邪丁未七月二十七日半村學人厲鶚記
+  hash: sha256:c9e06592ba524826410297fd749e1ec9c4214a92886b6c4b8bad0e67a8b90fb0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0488_WYG_005-1a, image: WYG1206/WYG1206-0293c.png}
+metadata:
+  title: 靜春堂詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:11:38.227569'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4d0488/KR4d0488_005.txt
+hash: sha256:46c6abd82db7d22bf561bb293d6a9d0f0f20e6970b2870e4e5051a1064524f38
